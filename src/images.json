@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "dog1",
+      "image": "https://post.healthline.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "dog2",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "dog3",
+      "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2016/05/19091354/Weimaraner-puppy-outdoors-with-bright-blue-eyes.20190813165758508-1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "dog4",
+      "image": "https://i.dailymail.co.uk/1s/2019/11/23/09/21370544-7717313-image-a-1_1574501083030.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "dog5",
+      "image": "https://thumbs-prod.si-cdn.com/4BwT4OsM5fay_fhZ9WDp_vfO-Po=/fit-in/1600x0/https://public-media.si-cdn.com/filer/2b/98/2b98ec47-682d-4844-b3b3-9410263a4f94/gj3m9r.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "dog6",
+      "image": "https://i.insider.com/5484d9d1eab8ea3017b17e29?width=1100&format=jpeg&auto=webp",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "dog7",
+      "image": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/pearl_16x9.jpg?itok=jZ8iPy1q",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "dog8",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/small-dog-breeds-lead-1550631680.jpg?crop=0.669xw:1.00xh;0.220xw,0&resize=640:*",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "dog9",
+      "image": "https://www.thesprucepets.com/thmb/8ZHdLsYCzE7j8nDTO0y61UtynTA=/2094x1396/filters:fill(auto,1)/portrait-if-a-spitz-pomeranian_t20_v3o29E-5ae9bbdca18d9e0037d95983.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "dog10",
+      "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBWR7Lj.img?h=552&w=750&m=6&q=60&u=t&o=f&l=f",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "dog11",
+      "image": "https://observer.com/wp-content/uploads/sites/2/2020/01/pets-4415649_1280.jpg?quality=80&w=970",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "dog12",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-dog-quotes-1580508958.jpg?crop=0.670xw:1.00xh;0.167xw,0&resize=640:*",
+      "clicked": false
+    }
+  ]
+  

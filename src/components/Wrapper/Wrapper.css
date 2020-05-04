@@ -1,0 +1,11 @@
+.wrapper {
+
+    background: rgb(180, 177, 198);
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    border-radius: 6px; 
+  }
