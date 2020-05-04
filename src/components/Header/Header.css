@@ -1,13 +1,13 @@
 body {
-    background: lightblue;
+    background: rgb(68, 59, 101);
 }
 
 nav {
-    background: tan;
+    background: rgb(41, 3, 79);
     color: rgb(238, 238, 224);
 }
 
 .jumbotron {
-    background: lightblue;
-    color: rgb(68, 59, 101);
+    background: rgb(68, 59, 101);
+    color: white;
 }
